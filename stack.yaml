@@ -4,8 +4,8 @@ packages:
 - .
 
 extra-deps:
-  - git: https://github.com/ncihnegn/clash-compiler
-    commit: 8a05ebdbc1c0db88b8410819237363452a94b602
+  - git: https://github.com/clash-lang/clash-compiler
+    commit: b89010af3bad709ec7554dd393ef3b42a4173fa4
     subdirs:
     - clash-prelude
     - clash-lib
